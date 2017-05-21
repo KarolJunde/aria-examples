@@ -4,6 +4,25 @@ REPOSITORY MIGRATION NOTICE:
 ARIA-TOSCA proejct was accepted as an Apache Software Foundation(ASF) Incubation project, development is now moved to https://github.com/apache/incubator-ariatosca 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Outdated information: For reference only:
+
 # Aria Example Blueprint
 
 This repository contains a TOSCA blueprint for installing the [Paypal Pizza Store](https://github.com/paypal/rest-api-sample-app-nodejs/) example application.
